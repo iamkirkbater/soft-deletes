@@ -1,0 +1,11 @@
+{
+    "name": "kirkbater/soft-deletes",
+    "description": "Trait to check for soft deletes in Laravel 5",
+    "authors": [
+        {
+            "name": "Kirk Bater",
+            "email": "kirk.bater@gmail.com"
+        }
+    ],
+    "require": {}
+}
