@@ -7,5 +7,10 @@
             "email": "kirk.bater@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Kirkbater\\Testing": "src/"
+        }
+    }
 }
