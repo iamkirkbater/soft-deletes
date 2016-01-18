@@ -4,7 +4,9 @@ namespace Kirkbater\Testing;
 
 /**
  * Soft Deletes Trait for Laravel 5.1.  This code was packaged by Kirk Bater, but was originally written
- * on this Stack Overflow question: http://stackoverflow.com/questions/33117746/laravel-unit-testing-how-to-seeindatabase-soft-deleted-row.
+ * on this Stack Overflow question: 
+ * http://stackoverflow.com/questions/33117746/laravel-unit-testing-how-to-seeindatabase-soft-deleted-row.
+ * Code from this gist: https://gist.github.com/EspadaV8/73c9b311eee96b8e8a03.
  */
 trait SoftDeletes {
     
